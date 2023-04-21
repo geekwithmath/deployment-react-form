@@ -24,7 +24,7 @@ function App() {
   return (
     <div>
       <form className="form-app">
-        <label>Enter First Name:
+        <label>Enter Another Name:
           <input type="text" name="firstName" value={formData.firstName || ''} onChange={handleInputChange} />
         </label>
         <br />

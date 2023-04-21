@@ -16,3 +16,9 @@ input{
   border-radius: 6px;
   margin-left: 24px;
 }
+
+@media only screen and (max-width: 600px) {
+  .form-app {
+    margin: 0px;
+  }
+}
